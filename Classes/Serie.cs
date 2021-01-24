@@ -1,4 +1,5 @@
 using DIO.Series.Enums;
+using System;
 
 namespace DIO.Series.Classes
 {
@@ -15,6 +16,16 @@ namespace DIO.Series.Classes
             this.Genero = genero;
             this.Titulo = titulo;
             this.Ano = ano;
+        }
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += "Gênero" + this.Genero + Environment.NewLine;
+            retorno += "Título" + this.Titulo + Environment.NewLine;
+            retorno += "Descrição" + this.Descricao + Environment.NewLine;
+            retorno += "Ano" + this.Ano;
+            return retorno;
         }
     }
 }
