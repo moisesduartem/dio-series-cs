@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/moises/bootcamps/DIO.Series/DIO.Series.csproj": {}
+    "/home/moises/bootcamps/dotnetfundamentals/DIO.Series/DIO.Series.csproj": {}
   },
   "projects": {
-    "/home/moises/bootcamps/DIO.Series/DIO.Series.csproj": {
+    "/home/moises/bootcamps/dotnetfundamentals/DIO.Series/DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/moises/bootcamps/DIO.Series/DIO.Series.csproj",
+        "projectUniqueName": "/home/moises/bootcamps/dotnetfundamentals/DIO.Series/DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "/home/moises/bootcamps/DIO.Series/DIO.Series.csproj",
+        "projectPath": "/home/moises/bootcamps/dotnetfundamentals/DIO.Series/DIO.Series.csproj",
         "packagesPath": "/home/moises/.nuget/packages/",
-        "outputPath": "/home/moises/bootcamps/DIO.Series/obj/",
+        "outputPath": "/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/moises/.nuget/NuGet/NuGet.Config"

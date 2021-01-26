@@ -1,0 +1,11 @@
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/moises/bootcamps/dotnetfundamentals/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb

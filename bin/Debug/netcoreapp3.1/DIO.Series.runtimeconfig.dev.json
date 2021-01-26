@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/moises/.dotnet/store/|arch|/|tfm|",
+      "/home/moises/.nuget/packages"
+    ]
+  }
+}
